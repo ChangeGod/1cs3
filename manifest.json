@@ -1,5 +1,5 @@
 {
-  "name": "Yoru's Repo",
+  "name": "CG",
   "version": "1.0.0",
   "scrapers": [
     {
@@ -7,12 +7,12 @@
       "name": "OPhim",
       "description": "Nguồn phim OPhim vietsub & thuyết minh",
       "version": "1.0.4",
-      "author": "Youngbi",
+      "author": "CG",
       "supportedTypes": ["movie", "tv"],
-      "filename": "https://raw.githubusercontent.com/youngbi/repo/main/plugins/ophim_plugin.js",
+      "filename": "https://githubusercontent.com",
       "enabled": true,
       "formats": ["mkv", "mp4", "m3u8"],
-      "logo": "https://raw.githubusercontent.com/youngbi/repo/main/plugins/ophim.ico",
+      "logo": "https://githubusercontent.com",
       "contentLanguage": ["vi"]
     },
     {
@@ -20,12 +20,12 @@
       "name": "KKPhim",
       "description": "Nguồn phim tổng hợp KKPhim",
       "version": "1.0.1",
-      "author": "Youngbi",
+      "author": "CG",
       "supportedTypes": ["movie", "tv"],
-      "filename": "https://raw.githubusercontent.com/youngbi/repo/main/plugins/kkphim_plugin.js",
+      "filename": "https://githubusercontent.com",
       "enabled": true,
       "formats": ["mkv", "mp4", "m3u8"],
-      "logo": "https://raw.githubusercontent.com/youngbi/repo/main/plugins/kkphim.png",
+      "logo": "https://githubusercontent.com",
       "contentLanguage": ["vi"]
     },
     {
@@ -33,12 +33,12 @@
       "name": "Phim NguonC",
       "description": "Nguồn phim NguonC",
       "version": "1.0.8",
-      "author": "Youngbi",
+      "author": "CG",
       "supportedTypes": ["movie", "tv"],
-      "filename": "https://raw.githubusercontent.com/youngbi/repo/main/plugins/nguonc_plugin.js",
+      "filename": "https://githubusercontent.com",
       "enabled": true,
       "formats": ["mkv", "mp4", "m3u8"],
-      "logo": "https://raw.githubusercontent.com/youngbi/repo/main/plugins/nguonC.png",
+      "logo": "https://githubusercontent.com",
       "contentLanguage": ["vi"]
     },
     {
@@ -46,12 +46,12 @@
       "name": "HH3D - Hoạt Hình 3D",
       "description": "Hoạt hình 3D Trung Quốc",
       "version": "1.0.3",
-      "author": "Youngbi",
+      "author": "CG",
       "supportedTypes": ["movie", "tv", "anime"],
-      "filename": "https://raw.githubusercontent.com/youngbi/repo/main/plugins/hh3d_plugin.js",
+      "filename": "https://githubusercontent.com",
       "enabled": true,
       "formats": ["mkv", "mp4", "m3u8"],
-      "logo": "https://raw.githubusercontent.com/youngbi/repo/main/plugins/hh3d.ico",
+      "logo": "https://githubusercontent.com",
       "contentLanguage": ["vi"]
     },
     {
@@ -59,12 +59,12 @@
       "name": "CLB Phim Xưa",
       "description": "Câu lạc bộ phim cổ điển xưa",
       "version": "1.0.6",
-      "author": "Youngbi",
+      "author": "CG",
       "supportedTypes": ["movie", "tv"],
-      "filename": "https://raw.githubusercontent.com/youngbi/repo/main/plugins/clbpx_plugin.js",
+      "filename": "https://githubusercontent.com",
       "enabled": true,
       "formats": ["mkv", "mp4", "m3u8"],
-      "logo": "https://raw.githubusercontent.com/youngbi/repo/main/plugins/clbpx.ico",
+      "logo": "https://githubusercontent.com",
       "contentLanguage": ["vi"]
     },
     {
@@ -72,12 +72,12 @@
       "name": "VMT TV",
       "description": "Nguồn phát VMT TV",
       "version": "1.0.2",
-      "author": "Youngbi",
+      "author": "CG",
       "supportedTypes": ["movie", "tv"],
-      "filename": "https://raw.githubusercontent.com/youngbi/repo/main/plugins/vmttv_plugin.js",
+      "filename": "https://githubusercontent.com",
       "enabled": true,
       "formats": ["mkv", "mp4", "m3u8"],
-      "logo": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/Logo.png",
+      "logo": "https://githubusercontent.com",
       "contentLanguage": ["vi"]
     },
     {
@@ -85,12 +85,12 @@
       "name": "MissAV 1",
       "description": "Nguồn phim người lớn MissAV 1",
       "version": "1.1.2",
-      "author": "Youngbi",
+      "author": "CG",
       "supportedTypes": ["movie", "xxx"],
-      "filename": "https://raw.githubusercontent.com/youngbi/repo/main/plugins/missav_plugin.js",
+      "filename": "https://githubusercontent.com",
       "enabled": true,
       "formats": ["mp4", "m3u8"],
-      "logo": "https://raw.githubusercontent.com/youngbi/repo/main/plugins/missav.ico",
+      "logo": "https://githubusercontent.com",
       "contentLanguage": ["ja", "vi"]
     },
     {
@@ -98,12 +98,12 @@
       "name": "MissAV 2",
       "description": "Nguồn phim người lớn MissAV 2",
       "version": "1.1.2",
-      "author": "Youngbi",
+      "author": "CG",
       "supportedTypes": ["movie", "xxx"],
-      "filename": "https://raw.githubusercontent.com/youngbi/repo/main/plugins/missav2_plugin.js",
+      "filename": "https://githubusercontent.com",
       "enabled": true,
       "formats": ["mp4", "m3u8"],
-      "logo": "https://raw.githubusercontent.com/youngbi/repo/main/plugins/missav.ico",
+      "logo": "https://githubusercontent.com",
       "contentLanguage": ["ja", "vi"]
     },
     {
@@ -111,12 +111,12 @@
       "name": "AVDB JAV",
       "description": "Nguồn phim JAV từ AVDB",
       "version": "1.0.3",
-      "author": "Youngbi",
+      "author": "CG",
       "supportedTypes": ["movie", "xxx"],
-      "filename": "https://raw.githubusercontent.com/youngbi/repo/main/plugins/avdbapi_plugin.js",
+      "filename": "https://githubusercontent.com",
       "enabled": true,
       "formats": ["mp4", "m3u8"],
-      "logo": "https://avdbapi.com/favicon.ico",
+      "logo": "https://avdbapi.com",
       "contentLanguage": ["ja"]
     },
     {
@@ -124,12 +124,12 @@
       "name": "Sextop1",
       "description": "Nguồn phim Sextop1",
       "version": "1.1.5",
-      "author": "Youngbi",
+      "author": "CG",
       "supportedTypes": ["movie", "xxx"],
-      "filename": "https://raw.githubusercontent.com/youngbi/repo/main/plugins/sextop1_plugin.js",
+      "filename": "https://githubusercontent.com",
       "enabled": true,
       "formats": ["mp4", "m3u8"],
-      "logo": "https://raw.githubusercontent.com/youngbi/repo/main/plugins/sextop1.webp",
+      "logo": "https://githubusercontent.com",
       "contentLanguage": ["vi"]
     },
     {
@@ -137,12 +137,12 @@
       "name": "Sextop2",
       "description": "Nguồn phim Sextop2",
       "version": "1.1.5",
-      "author": "Youngbi",
+      "author": "CG",
       "supportedTypes": ["movie", "xxx"],
-      "filename": "https://raw.githubusercontent.com/youngbi/repo/main/plugins/sextop2_plugin.js",
+      "filename": "https://githubusercontent.com",
       "enabled": true,
       "formats": ["mp4", "m3u8"],
-      "logo": "https://raw.githubusercontent.com/youngbi/repo/main/plugins/sextop1.webp",
+      "logo": "https://githubusercontent.com",
       "contentLanguage": ["vi"]
     },
     {
@@ -150,12 +150,12 @@
       "name": "TopXX",
       "description": "Nguồn phim TopXX",
       "version": "1.0.0",
-      "author": "Youngbi",
+      "author": "CG",
       "supportedTypes": ["movie", "xxx"],
-      "filename": "https://raw.githubusercontent.com/youngbi/repo/main/plugins/topxx_plugin.js",
+      "filename": "https://githubusercontent.com",
       "enabled": true,
       "formats": ["mp4", "m3u8"],
-      "logo": "https://topxx.vip/favicon.ico",
+      "logo": "https://topxx.vip",
       "contentLanguage": ["vi"]
     },
     {
@@ -163,12 +163,12 @@
       "name": "JavHD",
       "description": "Nguồn phim người lớn JavHD",
       "version": "1.0.4",
-      "author": "Youngbi",
+      "author": "CG",
       "supportedTypes": ["movie", "xxx"],
-      "filename": "https://raw.githubusercontent.com/youngbi/repo/main/plugins/javhd_plugin.js",
+      "filename": "https://githubusercontent.com",
       "enabled": true,
       "formats": ["mp4", "m3u8"],
-      "logo": "https://javhd.today/favicon.ico",
+      "logo": "https://javhd.today",
       "contentLanguage": ["ja"]
     },
     {
@@ -176,12 +176,12 @@
       "name": "VLXX",
       "description": "Nguồn phim VLXX tổng hợp",
       "version": "1.0.3",
-      "author": "Youngbi",
+      "author": "CG",
       "supportedTypes": ["movie", "xxx"],
-      "filename": "https://raw.githubusercontent.com/youngbi/repo/main/plugins/vlxx_plugin.js",
+      "filename": "https://githubusercontent.com",
       "enabled": true,
       "formats": ["mp4", "m3u8"],
-      "logo": "https://vlxx.bz/favicon.ico",
+      "logo": "https://vlxx.bz",
       "contentLanguage": ["vi"]
     },
     {
@@ -189,12 +189,12 @@
       "name": "OTruyen",
       "description": "Nguồn đọc truyện tranh OTruyen API",
       "version": "1.0.2",
-      "author": "Youngbi",
+      "author": "CG",
       "supportedTypes": ["manga", "comic"],
-      "filename": "https://raw.githubusercontent.com/youngbi/repo/main/plugins/otruyen_plugin.js",
+      "filename": "https://githubusercontent.com",
       "enabled": true,
       "formats": ["png", "jpg", "webp"],
-      "logo": "https://otruyenapi.com/favicon.ico",
+      "logo": "https://otruyenapi.com",
       "contentLanguage": ["vi"]
     },
     {
@@ -202,12 +202,12 @@
       "name": "SayHentai",
       "description": "Nguồn truyện tranh người lớn SayHentai",
       "version": "1.0.4",
-      "author": "Youngbi",
+      "author": "CG",
       "supportedTypes": ["manga", "xxx"],
-      "filename": "https://raw.githubusercontent.com/youngbi/repo/main/plugins/sayhentai_plugin.js",
+      "filename": "https://githubusercontent.com",
       "enabled": true,
       "formats": ["png", "jpg", "webp"],
-      "logo": "https://sayhentai.sh/favicon-32x32.png",
+      "logo": "https://sayhentai.sh",
       "contentLanguage": ["vi"]
     },
     {
@@ -215,12 +215,12 @@
       "name": "MissKon",
       "description": "Nguồn ảnh và nội dung MissKon",
       "version": "1.0.0",
-      "author": "Youngbi",
+      "author": "CG",
       "supportedTypes": ["manga", "xxx"],
-      "filename": "https://raw.githubusercontent.com/youngbi/repo/main/plugins/misskon_plugin.js",
+      "filename": "https://githubusercontent.com",
       "enabled": true,
       "formats": ["png", "jpg", "webp"],
-      "logo": "https://misskon.com/favicon.ico",
+      "logo": "https://misskon.com",
       "contentLanguage": ["en"]
     }
   ]
